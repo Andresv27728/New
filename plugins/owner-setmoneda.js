@@ -23,7 +23,7 @@ let handler = async (m, { text }) => {
     const subBots = getSubBots();
 
     if (sender !== ownerNumber && !subBots.includes(sender)) {
-        throw '⛔ Solo el dueño o un sub bot autorizado puede usar este comando.';
+        throw '⛔ Solo el dueño y sub bots pueden usar este comando.';
     }
 
     if (!text) throw '❌ Debes proporcionar un nombre para la moneda.';
