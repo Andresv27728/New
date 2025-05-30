@@ -70,17 +70,17 @@ global.moment = moment
 
 //------------------------[ Stickers ]-----------------------------
 
-global.packname = 'AlyaBot'
-global.author = 'Emma (Violets Version)'
+global.packname = 'Yume'
+global.author = 'Moi'
 
 //------------[ Versión | Nombre  ]------------
 
 // Cambia por el nombre de tu bot
 
-global.wm = 'AlyaBot' 
-global.botname = 'AlyaBot'
+global.wm = 'Yume 💜' 
+global.botname = 'Yume'
 global.vs = '2.2.1'
-global.dev = 'Emma (Violets Version)'
+global.dev = 'Moi'
 global.copy = '© 2025'
 
 //----------------------------[ NIVELES | RPG ]---------------------------------
@@ -90,7 +90,7 @@ global.maxwarn = '4' // máxima advertencias
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.rwait = '⌛'
+global.rwait = '🕒'
 global.dmoji = '🤭'
 global.done = '✅'
 global.error = '❌' 
