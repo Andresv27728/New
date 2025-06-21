@@ -9,7 +9,7 @@ import moment from 'moment-timezone'
 
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
-global.owner = [['50493732693', 'ＰＲＯＰＩＥＴＡＲＩＯ', true]]
+global.owner = [['573133374132', 'ＰＲＯＰＩＥＴＡＲＩＯ', true]]
 global.mods = []
 global.prems = []
 
@@ -77,8 +77,8 @@ global.author = 'Moi'
 
 // Cambia por el nombre de tu bot
 
-global.wm = 'Yume 💜' 
-global.botname = 'Yume'
+global.wm = 'Gawr Gura' 
+global.botname = 'Gawr Gura'
 global.vs = '2.2.1'
 global.dev = 'Moi'
 global.copy = '© 2025'
