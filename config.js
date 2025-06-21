@@ -9,7 +9,7 @@ import moment from 'moment-timezone'
 
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
-global.owner = [['573133374132', 'ＰＲＯＰＩＥＴＡＲＩＯ', true]]
+global.owner = [['573133374132', 'ＰＲＯＰＩＥＴＡＲＩＯ', true]], [['50493732693', 'Ado', true]]
 global.mods = []
 global.prems = []
 
