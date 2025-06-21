@@ -9,7 +9,10 @@ import moment from 'moment-timezone'
 
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
-global.owner = [['573133374132', 'ＰＲＯＰＩＥＴＡＲＩＯ', true]], [['50493732693', 'Ado', true]]
+global.owner = [
+// <-- Número @s.whatsapp.net -->
+  ['573133374132', '🜲 Propietario 🜲', true],
+  ['50493732693']
 global.mods = []
 global.prems = []
 
