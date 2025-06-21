@@ -84,12 +84,11 @@ const handler = async (m, { conn, text, usedPrefix, command }) => {
 
     const vistas = formatViews(views);
     const infoMessage = `
-╭━━〔 *➮ Yume* 〕━━⬣
+╭━━〔 *➮ ${wm}* 〕━━⬣
 ┃ 💿 *Título :* ${title}
 ┃ 📺 *Canal :* ${videoInfo.author.name || "Desconocido"}
 ┃ 📊 *Vistas :* ${vistas}
 ┃ ⏱️ *Duración :* ${timestamp}
-┃ 📅 *Publicado :* ${ago}
 ┃ 🔗 *Enlace :* ${url}
 ╰━━━━━━━━━━━━━━━━⬣`.trim();
 
