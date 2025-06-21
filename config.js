@@ -82,7 +82,7 @@ global.botname = 'Gawr Gura'
 global.vs = '2.2.1'
 global.dev = 'Moi'
 global.copy = '© 2025'
-
+global.textbot = ''
 //----------------------------[ NIVELES | RPG ]---------------------------------
 
 global.multiplier = 850 // Cuanto más alto, más difícil subir de nivel
